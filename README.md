@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raushan9586/leetcode/tree/master/0001-two-sum) |
+| [0120-triangle](https://github.com/Raushan9586/leetcode/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Raushan9586/leetcode/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Raushan9586/leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
