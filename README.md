@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Raushan9586/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Raushan9586/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raushan9586/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Raushan9586/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raushan9586/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Raushan9586/leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Raushan9586/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Raushan9586/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Raushan9586/leetcode/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
