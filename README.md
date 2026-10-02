@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Raushan9586/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Raushan9586/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Raushan9586/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Raushan9586/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Raushan9586/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Raushan9586/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Raushan9586/leetcode/tree/master/0217-contains-duplicate) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Raushan9586/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Quicksort
 |  |
 | ------- |
