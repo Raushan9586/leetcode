@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raushan9586/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Raushan9586/leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Raushan9586/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Raushan9586/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Raushan9586/leetcode/tree/master/0056-merge-intervals) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raushan9586/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Raushan9586/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Raushan9586/leetcode/tree/master/0014-longest-common-prefix) |
 | [0224-basic-calculator](https://github.com/Raushan9586/leetcode/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raushan9586/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raushan9586/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
