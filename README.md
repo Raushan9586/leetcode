@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Raushan9586/leetcode/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Raushan9586/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Raushan9586/leetcode/tree/master/0224-basic-calculator) |
+| [0263-ugly-number](https://github.com/Raushan9586/leetcode/tree/master/0263-ugly-number) |
 ## Linked List
 |  |
 | ------- |
