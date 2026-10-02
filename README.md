@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Raushan9586/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Raushan9586/leetcode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Raushan9586/leetcode/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/Raushan9586/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Raushan9586/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Linked List
 |  |
