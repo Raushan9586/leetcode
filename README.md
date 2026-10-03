@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Raushan9586/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Raushan9586/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Raushan9586/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raushan9586/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Raushan9586/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raushan9586/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Raushan9586/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raushan9586/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## String
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Raushan9586/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raushan9586/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
