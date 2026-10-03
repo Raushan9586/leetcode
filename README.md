@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raushan9586/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Raushan9586/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Raushan9586/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Raushan9586/leetcode/tree/master/0118-pascals-triangle) |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Raushan9586/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Raushan9586/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Raushan9586/leetcode/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/Raushan9586/leetcode/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Raushan9586/leetcode/tree/master/0224-basic-calculator) |
 ## Divide and Conquer
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
