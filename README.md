@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Raushan9586/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raushan9586/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Raushan9586/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Raushan9586/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raushan9586/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## String
 |  |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Raushan9586/leetcode/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/Raushan9586/leetcode/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/Raushan9586/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Raushan9586/leetcode/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/Raushan9586/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Raushan9586/leetcode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/Raushan9586/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Raushan9586/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Binary Search
 |  |
 | ------- |
