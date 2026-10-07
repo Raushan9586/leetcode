@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Raushan9586/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raushan9586/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Raushan9586/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Raushan9586/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Raushan9586/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Raushan9586/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Raushan9586/leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Raushan9586/leetcode/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/Raushan9586/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Raushan9586/leetcode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Raushan9586/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Raushan9586/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -173,4 +175,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Raushan9586/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
