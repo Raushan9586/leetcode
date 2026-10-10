@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Raushan9586/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Raushan9586/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Raushan9586/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raushan9586/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Raushan9586/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raushan9586/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Raushan9586/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raushan9586/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Raushan9586/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Raushan9586/leetcode/tree/master/0217-contains-duplicate) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Raushan9586/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raushan9586/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raushan9586/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Raushan9586/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raushan9586/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Raushan9586/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raushan9586/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
