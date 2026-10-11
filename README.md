@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Raushan9586/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Raushan9586/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raushan9586/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Raushan9586/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Raushan9586/leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Raushan9586/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
